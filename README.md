@@ -59,10 +59,7 @@ git hub의 readme.md 다음과 같이 작성할 수 있도록 코드를 제안�
     5. **Gate Out**
         - 컨테이너가 항만을 떠나는 시점입니다.
         - **참고**: GF 작업 트럭의 시간은 기록되지 않습니다.
-            
-            ![스크린샷 2024-10-31 오전 10.35.59.png][(https://prod-files-secure.s3.us-west-2.amazonaws.com/aa7da21a-dcad-417a-b627-42ff363faa45/6d9675fb-adee-475e-bc46-e1056d099c7f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-10-31_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.35.59.png](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Faa7da21a-dcad-417a-b627-42ff363faa45%2F6d9675fb-adee-475e-bc46-e1056d099c7f%2F%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-10-31_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_10.35.59.png?table=block&id=5ea30044-19ec-41ad-bcdf-378190f02817&spaceId=aa7da21a-dcad-417a-b627-42ff363faa45&width=2000&userId=ad48a2c2-ffee-491d-adca-a6860c5b80d3&cache=v2))
-            
-
+img[https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Faa7da21a-dcad-417a-b627-42ff363faa45%2F6d9675fb-adee-475e-bc46-e1056d099c7f%2F%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2024-10-31_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_10.35.59.png?table=block&id=5ea30044-19ec-41ad-bcdf-378190f02817&spaceId=aa7da21a-dcad-417a-b627-42ff363faa45&width=2000&userId=ad48a2c2-ffee-491d-adca-a6860c5b80d3&cache=v2]
 ---
 
 ## 반입 컨테이너 유형
