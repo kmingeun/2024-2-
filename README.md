@@ -1,11 +1,8 @@
 # 2024-2_simulation_project
 
-<pre></pre>
-<pre></pre>
-<pre></pre>
-<pre></pre>
-
-
+<br>
+<br>
+<br>
 
 # 주제 정리 및 역할 분담
 
