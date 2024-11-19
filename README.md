@@ -1,7 +1,6 @@
 # 2024-2_simulation_project
 
 
-git hub의 readme.md 다음과 같이 작성할 수 있도록 코드를 제안해줘.
 
 # 주제 정리 및 역할 분담
 
